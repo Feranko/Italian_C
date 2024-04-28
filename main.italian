@@ -1,0 +1,35 @@
+includi <stdio.h>
+includi <stdlib.h>
+includi <stdbool.h>
+
+intero principale(){
+
+	intero numero = 0;
+	intero numero3 = 0;
+	galleggiante numero2 = 0.25;
+	doppia numero4 = 0.2567;
+
+	vocabolo *testo = "";
+	
+	booleana si = vero;
+	booleana no = falso;
+
+	per(intero a=0; a<10; a++)
+	{
+		stampa("%d", a);
+	}
+	
+	finche(numero<10)
+	{
+		numero++;
+		stampa("%d", numero);
+	}
+
+	fai{
+		numero3++;
+		stampa ("%d", numero3);
+	} finche(numero3 < 10);
+
+
+	ritorna 0;
+}
