@@ -5,15 +5,15 @@ Principalmente è indirizzato a tutti gli utenti Linux
 
 per installare il compilatore è sufficente:
 
-Ubuntu e Debian:
+Ubuntu e Debian
 sudo apt-get update -y
 sudo apt-get install gcc -y
   
-Fedora:
+Fedora
 sudo dnf update
 sudo dnf install gcc
 
-Arch:
+Arch
 sudo pacman -Syu
 sudo pacman -Sy gcc
 
@@ -22,20 +22,20 @@ Se non si dispone dispone di un sistema linux si può usufruire di 2 strumenti:
 -Virtual Machine (suggerisco VirtualBOX)
 
 I comandi tradotti sono i seguenti
--#includi -> #include
--int -> intero
--float -> galleggiante
--double -> doppia
--char -> vocabolo
--bool -> booleana
--true -> vero
--false -> falso
--for -> per
--while -> finche
--do -> fai
--return -> ritorna
--printf -> stampa
--main -> principale
+#includi -> #include
+int -> intero
+float -> galleggiante
+double -> doppia
+char -> vocabolo
+bool -> booleana
+true -> vero
+false -> falso
+for -> per
+while -> finche
+do -> fai
+return -> ritorna
+printf -> stampa
+main -> principale
 
 Metto pure un paio di esempi:
 
