@@ -4,16 +4,18 @@ questo linguaggio è praticamente il linguaggio "C" però con le funzioni princi
 Principalmente è indirizzato a tutti gli utenti Linux
 
 per installare il compilatore è sufficente:
-  Ubuntu e Debian:
-    sudo apt-get update -y
-    sudo apt-get install gcc -y
+
+Ubuntu e Debian:
+sudo apt-get update -y
+sudo apt-get install gcc -y
   
-  Fedora:
-    sudo dnf update
-    sudo dnf install gcc
-  Arch:
-    sudo pacman -Syu
-    sudo pacman -Sy gcc
+Fedora:
+sudo dnf update
+sudo dnf install gcc
+
+Arch:
+sudo pacman -Syu
+sudo pacman -Sy gcc
 
 Se non si dispone dispone di un sistema linux si può usufruire di 2 strumenti:
 -WSL(Windows Subsystem for Linux) https://learn.microsoft.com/en-us/windows/wsl/install <- link per il setup oppure lo si cerca sul Microsoft Store
