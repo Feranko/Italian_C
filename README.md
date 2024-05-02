@@ -22,20 +22,20 @@ Se non si dispone dispone di un sistema linux si può usufruire di 2 strumenti:
 -Virtual Machine (suggerisco VirtualBOX)
 
 I comandi tradotti sono i seguenti
-#includi -> #include\n
-int -> intero\n
-float -> non_intero\n
-double -> doppia
-char -> vocabolo
-bool -> booleana
-true -> vero
-false -> falso
-for -> per
-while -> finche
-do -> fai
-return -> ritorna
-printf -> stampa
-main -> principale
+#includi -> #include	
+int -> intero	
+float -> non_intero		
+double -> doppia		
+char -> vocabolo		
+bool -> booleana		
+true -> vero	
+false -> falso	
+for -> per	
+while -> finche	
+do -> fai	
+return -> ritorna	
+printf -> stampa	
+main -> principale	
 
 Metto pure un paio di esempi:
 
