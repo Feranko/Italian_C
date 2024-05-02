@@ -18,7 +18,7 @@ void compile_and_run(const char *file_name) {
     char *translations[][2] = {
         {"#includi", "#include"},
         {"intero", "int"},
-        {"galleggiante", "float"},
+        {"non_intero", "float"},
         {"doppia", "double"},
         {"vocabolo", "char"},
         {"booleana", "bool"},
