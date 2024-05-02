@@ -22,9 +22,9 @@ Se non si dispone dispone di un sistema linux si può usufruire di 2 strumenti:
 -Virtual Machine (suggerisco VirtualBOX)
 
 I comandi tradotti sono i seguenti
-#includi -> #include
-int -> intero
-float -> galleggiante
+#includi -> #include\n
+int -> intero\n
+float -> non_intero\n
 double -> doppia
 char -> vocabolo
 bool -> booleana
