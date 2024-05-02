@@ -7,7 +7,7 @@ def compile_and_run(file_name):
         content = f.read()
         content = content.replace("includi", "#include")
         content = content.replace("intero", "int")
-        content = content.replace("galleggiante", "float")
+        content = content.replace("non_intero", "float")
         content = content.replace("doppia", "double")
         content = content.replace("vocabolo", "char")
         content = content.replace("booleana", "bool")
